@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: #333; /* Couleur du texte */
+    font-size: 24px; /* Taille de la police */
+    font-weight: bold; /* Graisse de la police */
+    margin-bottom: 10px; /* Marge inférieure */
+    text-align: center; /* Centrage du texte */
+  }
+  
+  /* Styles for p */
+  p {
+    color: #666; /* Couleur du texte */
+    font-size: 16px; /* Taille de la police */
+    line-height: 1.5; /* Hauteur de ligne pour une meilleure lisibilité */
+    margin-bottom: 20px; /* Marge inférieure */
+    text-align: center; /* Centrage du texte */
+  }
+  
